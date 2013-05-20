@@ -1,0 +1,8 @@
+{
+    "private": true
+  , "name": "mtp"
+  , "description": "My test project"
+  , "dependencies": {
+      "cucumber": "*"
+  }
+}
